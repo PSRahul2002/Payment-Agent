@@ -1,0 +1,5 @@
+<Response>
+    <Say voice="woman">
+        Hello Rahul, this is a reminder that your payment of ten thousand rupees is due from July 14th, 2025. Please make the payment at your earliest convenience.
+    </Say>
+</Response>
